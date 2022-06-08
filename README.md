@@ -1,8 +1,8 @@
-[![Abdul's GitHub Banner](./assets/GithubBanner.png)](https://abdulfarhan.com)
+[![Abdul's GitHub Banner](./assets/GithubBanner.png)](https://aicaliber.com)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdul-farhan/">
-    <img src="https://img.shields.io/badge/abdul_farhan-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+  <a href="https://www.linkedin.com/in/hasanain-mehmood-a37a4116b/">
+    <img src="https://img.shields.io/badge/hasnain_mehmood-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
  </a>
 <a href="https://twitter.com/F__Abdul">
     <img src="https://img.shields.io/badge/-@F__Abdul-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
