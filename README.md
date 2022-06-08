@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/hasnain_mehmood-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
  </a>
 
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you</h1>
 
 I am a Microsoft Certified Data Scientist with working experience in data analytics
 including data acquisition, data warehousing, real-time dashboarding, machine learning, and many more.
@@ -27,11 +27,11 @@ Want to know more about me? [Check out my portfolio](https://www.aicaliber.com)
 
 ## Current Stats
 
-|   ![Abdul's's github activity graph](https://activity-graph.herokuapp.com/graph?username=hassi34&theme=rogue) |
+|   ![Hasnain's github activity graph](https://activity-graph.herokuapp.com/graph?username=hassi34&theme=rogue) |
 | :---: |
 
-| ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassi34&show_icons=true&theme=city_lights) | ![Hasnain's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassi34&theme=city-lights) |
+| ![Hasnain's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassi34&show_icons=true&theme=city_lights) | ![Hasnain's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassi34&theme=city-lights) |
 | :---: | :---: |
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassi34&theme=city_lights) |
-| :---: |
+| :---: |a
