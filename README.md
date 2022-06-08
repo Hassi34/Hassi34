@@ -4,13 +4,10 @@
   <a href="https://www.linkedin.com/in/hasanain-mehmood-a37a4116b/">
     <img src="https://img.shields.io/badge/hasnain_mehmood-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
  </a>
-<a href="https://twitter.com/F__Abdul">
-    <img src="https://img.shields.io/badge/-@F__Abdul-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
- </a>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-Microsoft Certified Data Scientist with working experience in data analytics
+I am a Microsoft Certified Data Scientist with working experience in data analytics
 including data acquisition, data warehousing, real-time dashboarding, machine learning, and many more.
 Hands-on experience leveraging cloud-based data science technology stack to solve challenging business problems.
 I'm also open to having a chat about **Anything Data Science Related**.
