@@ -34,4 +34,4 @@ Want to know more about me? [Check out my portfolio](https://www.aicaliber.com)
 | :---: | :---: |
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassi34&theme=city_lights) |
-| :---: |a
+| :---: |
