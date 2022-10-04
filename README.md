@@ -1,8 +1,8 @@
-[![Abdul's GitHub Banner](./assets/GithubBanner.png)](https://aicaliber.com)
+[![Hasanain's GitHub Banner](./assets/GithubBanner.png)](https://aicaliber.com)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hasanain-mehmood-a37a4116b/">
-    <img src="https://img.shields.io/badge/hasnain_mehmood-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+    <img src="https://img.shields.io/badge/hasanain_mehmood-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
  </a>
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you</h1>
@@ -27,10 +27,10 @@ Want to know more about me? [Check out my portfolio](https://www.aicaliber.com)
 
 ## Current Stats
 
-|   ![Hasnain's github activity graph](https://activity-graph.herokuapp.com/graph?username=hassi34&theme=rogue) |
+|   ![Hasanain's github activity graph](https://activity-graph.herokuapp.com/graph?username=hassi34&theme=rogue) |
 | :---: |
 
-| ![Hasnain's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassi34&show_icons=true&theme=city_lights) | ![Hasnain's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassi34&theme=city-lights) |
+| ![Hasanain's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassi34&show_icons=true&theme=city_lights) | ![Hasanain's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassi34&theme=city-lights) |
 | :---: | :---: |
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassi34&theme=city_lights) |
