@@ -1,4 +1,4 @@
-[![Hasanain's GitHub Banner](./assets/GithubBanner.png)](https://aicaliber.com)
+[![Hasanain's GitHub Banner](./assets/GithubBanner.gif)](https://aicaliber.com)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hasanain-mehmood-a37a4116b/">
