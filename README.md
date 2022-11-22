@@ -1,4 +1,4 @@
-[![Hasanain's GitHub Banner](./assets/GithubBanner.gif)](https://aicaliber.com)
+[![Hasanain's GitHub Banner](./assets/GithubBanner.gif)](https://hasanain.aicaliber.com/)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hasanain-mehmood-a37a4116b/">
@@ -12,7 +12,7 @@ including data acquisition, data warehousing, real-time dashboarding, machine le
 Hands-on experience leveraging cloud-based data science technology stack to solve challenging business problems.
 I'm also open to having a chat about **Anything Data Science Related**.
 
-Want to know more about me? [Check out my portfolio](https://www.aicaliber.com)
+Want to know more about me? [Check out my portfolio](https://hasanain.aicaliber.com/)
 
 ## I have technical experience and interest in :
 * Business Intelligence
