@@ -35,3 +35,12 @@ Want to know more about me? [Check out my portfolio](https://hasanain.aicaliber.
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassi34&theme=city_lights) |
 | :---: |
+
+<br>
+
+#### I like to experiment with cutting-edge tech during my free time 👨🏻‍💻 <br><br>
+Orignal             |  Fake
+:-------------------------:|:-------------------------:
+<img src="./assets/capOrignal.gif" width="300" height="520" />  |  <img src="./assets/capFake.gif" width="300" height="520" />
+<img src="./assets/luciOrignal.gif" width="300" height="520" />  |  <img src="./assets/luciFake.gif" width="300" height="520" /> <br>
+<h1 align="center"><img src="./assets/DaGAN.gif" /> </h1>
