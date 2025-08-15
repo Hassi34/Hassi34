@@ -1,7 +1,9 @@
 <div align="center">
   
   <!-- Dynamic Header with Animated Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=HASANAIN+MEHMOOD;Solutions+Architect+Expert;Certified+AI+Engineer;MLOps+%26+LLMOps+Specialist;</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&amp;weight=900&amp;size=40&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=100&amp;lines=HASANAIN+MEHMOOD;Solutions+Architect+Expert;Certified+AI+Engineer;MLOps+%26+LLMOps+Specialist;" alt="Animated header" />
+
+</div>
 
 <div align="center">
   <h2>🎯 <b>Professional Summary</b></h2>
